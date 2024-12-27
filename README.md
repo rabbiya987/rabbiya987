@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rabia-ishtiaq-08aa92218/">
     <img src="https://img.shields.io/badge/Medium-000000?style=plastic&logo=medium&logoColor=white" width="111" height="28"/>
   </a>
-    <a href="https://medium.com/@rabbiya765">
+  <a href="https://medium.com/@rabbiya765">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
