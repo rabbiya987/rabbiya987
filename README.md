@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdxdTVkZDlnaTJ1ajg3ZjJxNXRsdGRjcmc4M2NsZzYyaGxxa2kwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgw604MyLJnDtbi4t0/giphy.webp" width="250" height="250"/>
+  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdxdTVkZDlnaTJ1ajg3ZjJxNXRsdGRjcmc4M2NsZzYyaGxxa2kwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgw604MyLJnDtbi4t0/giphy.webp" width="150" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rabia-ishtiaq-08aa92218/">
